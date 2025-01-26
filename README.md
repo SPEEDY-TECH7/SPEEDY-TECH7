@@ -1,17 +1,17 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗮𝗶+𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡;𝗜𝗮𝗺+𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗮𝗶+𝗜𝗮𝗺+𝗠𝗿+SPEEDY;𝗜𝗮𝗺+𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
 
 
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• Nmae: Mr MKN
+• Nmae: Mr SPEEDY
 <p align="left">
 • Age: 20
 <p align="left">
-• Place: Kannur/Kerala/India
+• Place: Coimbatore/Tamilnadu/India
 <p align="left">
-• Language: English/Malayalam/Tamil/Python 
+• Language: English/Tamil 
 <p align="left">
 • Work: Python dev, cybersec, electronics mech, smallscale business, crypto trader
 
