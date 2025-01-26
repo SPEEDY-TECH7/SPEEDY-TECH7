@@ -5,7 +5,7 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• Nmae: Mr SPEEDY
+• Name: Mr SPEEDY
 <p align="left">
 • Age: 20
 <p align="left">
