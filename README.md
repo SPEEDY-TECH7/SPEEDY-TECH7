@@ -13,15 +13,7 @@
 <p align="left">
 • Language: English/Tamil 
 <p align="left">
-• Work: Python dev, cybersec, electronics mech, smallscale business, crypto trader
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/>
-</p>        
+• Work: Python dev, cybersec, electronics mech, smallscale business, crypto trader        
 
 <p align="center">Used Languages </p>
 <p align="center">
