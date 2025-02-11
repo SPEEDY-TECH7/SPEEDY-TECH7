@@ -17,6 +17,14 @@
 <p align="left">
 • Skils: Python,HTML,CSS,JAVA,PHP,MYSQL,Kotlin,Video Editing,etc..
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=SPEEDY-TECH7&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPEEDY-TECH7&&show_icons=true&theme=midnight-purple" alt="MrMKN"/>
+</p>
+
 <p align="center">Used Languages </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPEEDY-TECH7&layout=compact&theme=tokyonight" align="center">
