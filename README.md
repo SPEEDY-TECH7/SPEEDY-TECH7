@@ -13,7 +13,7 @@
 <p align="left">
 • Language: English/Tamil 
 <p align="left">
-• Status: 3rd Year
+• Status: Engineering Graduate
 <p align="left">
 • Skils: Python,HTML,CSS,JAVA,PHP,MYSQL,Kotlin,Video Editing,etc..
 
