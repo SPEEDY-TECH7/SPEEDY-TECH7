@@ -17,14 +17,10 @@
 <p align="left">
 • Skils: Python,HTML,CSS,JAVA,PHP,MYSQL,Kotlin,Video Editing,etc..
 
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=SPEEDY-TECH7&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
-
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SPEEDY-TECH7&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-stats-alpha.vercel.app/api/?username=SPEEDY-TECH7&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">
