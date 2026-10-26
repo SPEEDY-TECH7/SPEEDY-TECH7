@@ -21,5 +21,19 @@
   <img src="https://github-stats-alpha.vercel.app/api/?username=SPEEDY-TECH7&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SPEEDY-TECH7&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPEEDY-TECH7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPEEDY-TECH7&layout=compact&theme=tokyonight"/>
+</p>
+
 
 <h1 align="center">Thanks for All❣️ </h1>
